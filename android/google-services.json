@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "334604307333",
+    "project_id": "collimate-rn-test2",
+    "storage_bucket": "collimate-rn-test2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334604307333:android:447d569f5b84c06729d2ec",
+        "android_client_info": {
+          "package_name": "com.collimate.collimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334604307333-1ga4rka673dq16plon15drsqmk5nbv3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.collimate.collimate",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "334604307333-7386hiubh012cpptibaqhfji17k6jr2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOiql3E0tt_x5_hUVXfZCubN0bQpEN-Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334604307333-7386hiubh012cpptibaqhfji17k6jr2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334604307333-33aor93302sn8cr5h4tenl172fqm5dj3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.collimate.collimate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
